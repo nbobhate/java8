@@ -16,8 +16,8 @@ Some notes about each pattern.
 2. **Bridge:** Decouple an abstraction from its implementation so that they can be changed independently
 3. **Composite:** Allows individual or multiple objects to be treated the same, similar to objects in a tree hierarchy
 4. **Decorator:** Add behaviour or state without modifying the original object or creating specialized extensions
-5. **Facade:**
-6. **Flyweight:**
-7. **Proxy:**
+5. **Facade:** Provides a simplified interface to hide the complexities of a system
+6. **Flyweight:** Reduces object creation by returning pre-created instances
+7. **Proxy:** Act as wrappers or handlers for another class
 
 ## Behavioural Patterns
